@@ -2,6 +2,10 @@
 
 **An AI-powered text adventure where a large language model is the game.** You pick a world and a difficulty, type free-text actions ("look around", "take the sword", "barge through the door"), and an LLM dungeon master narrates the consequences — tracking your health, inventory, location and quest flags across the whole run. Every playthrough is different.
 
+<img width="1537" height="1062" alt="1" src="https://github.com/user-attachments/assets/da2bc6eb-711c-43ab-ad71-e88e972e742d" />
+<img width="1566" height="1064" alt="2" src="https://github.com/user-attachments/assets/ee6e928b-0ca2-4119-be56-ea9b6a257cc5" />
+<img width="1568" height="1066" alt="3" src="https://github.com/user-attachments/assets/2482fd92-e559-4d2f-a6e4-c3c3321fb209" />
+
 ---
 
 ## Table of contents
